@@ -1,10 +1,9 @@
-HelpIcarus
+divergent
 ==========
 
 Description
 ----------
-A Labyrinth Solution
-
+Think big,Think different
 Collaborators
 ----------
 * *Rholais*: Administrator
