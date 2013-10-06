@@ -1,11 +1,13 @@
-divergent
+HelpIcarus
 ==========
 
 Description
 ----------
-Think big,Think different
+A Labyrinth Solution
+
 Collaborators
 ----------
 * *Rholais*: Administrator
 * *stasl0217*
 * *suemiller*
+* *divergent*: Think big,Think different
