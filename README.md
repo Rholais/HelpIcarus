@@ -3,9 +3,12 @@ HelpIcarus
 
 Introduction
 ----------
-The aim of this project is to provide a solution of 
+My aim is to provide a solution of 
 labyrinth.
+
 > In Greek mythology, the Labyrinth (Greek λαβύρινθος labyrinthos, possibly the building complex at Knossos) was an elaborate structure designed and built by the legendary artificer Daedalus for King Minos of Crete at Knossos. Its function was to hold the Minotaur, a mythical creature that was half man and half bull and was eventually killed by the Athenian hero Theseus. *[Labyrinth - Wikipedia, the free encyclopedia][]*
+
+While running me, consumers are supposed to open diagram(s) of a labyrinth. After that, it's my job to give the shortest path which exists.
 
 Recourse
 ----------
