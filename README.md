@@ -11,6 +11,7 @@ While running me, consumers are supposed to open diagram(s) of a labyrinth. Afte
 
 I attempt to recognize labyrinths using OpenCV Library, and store them in a certain data structure. Then I'll do the PathFinding.
 
+Someone reminded me that I should take care of the ruffle of papers. I thought it didn't matter.
 
 Recourse
 ----------
